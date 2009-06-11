@@ -1,0 +1,13 @@
+{
+  "env": {
+    "default": {
+      "db": "http://localhost:5984/paeasy"
+    },
+    "dev": {
+      "db": "http://localhost:5984/paeasy"
+    },
+    "production": {
+      "db": "http://scottmotte.com:5984/paeasy"
+    }
+  }
+}
